@@ -7,9 +7,9 @@ Scraping Flipkart's data and storing the result into an excel file.
   pip install BeautifulSoup4
   ```
  * To show the result in the excel file [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
-  ```bash
-  pip install openpyxl
-  ```
+   ```bash
+   pip install openpyxl
+   ```
   
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
